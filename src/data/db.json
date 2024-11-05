@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Thuốc giảm đau"
+    },
+    {
+      "id": "2",
+      "name": "Kháng sinh"
+    },
+    {
+      "id": "3",
+      "name": "Vitamin"
+    },
+    {
+      "id": "4",
+      "name": "Thuốc ho"
+    },
+    {
+      "id": "5",
+      "name": "Thuốc dị ứng"
+    }
+  ],
+  "products": [
+    {
+      "productCode": "PROD-0001",
+      "name": "Paracetamol",
+      "quantity": 100,
+      "price": 5000,
+      "description": "Thuốc giảm đau và hạ sốt.",
+      "importDate": "2024-10-01",
+      "categoryId": "1",
+      "id": "1"
+    },
+    {
+      "productCode": "PROD-0002",
+      "name": "Amoxicillin",
+      "quantity": 200,
+      "price": 15000,
+      "description": "Kháng sinh dùng trong điều trị nhiễm khuẩn.",
+      "importDate": "2024-10-02",
+      "categoryId": "2",
+      "id": "2"
+    },
+    {
+      "productCode": "PROD-0003",
+      "name": "Vitamin C",
+      "quantity": 150,
+      "price": 3000,
+      "description": "Hỗ trợ tăng cường hệ miễn dịch.",
+      "importDate": "2024-10-03",
+      "categoryId": "3",
+      "id": "3"
+    },
+    {
+      "productCode": "PROD-0004",
+      "name": "Cough Syrup",
+      "quantity": 80,
+      "price": 20000,
+      "description": "Thuốc ho, làm dịu cơn ho.",
+      "importDate": "2024-10-04",
+      "categoryId": "4",
+      "id": "4"
+    },
+    {
+      "productCode": "PROD-0005",
+      "name": "Loratadine",
+      "quantity": 120,
+      "price": 7000,
+      "description": "Thuốc dị ứng không gây buồn ngủ.",
+      "importDate": "2024-10-05",
+      "categoryId": "5",
+      "id": "5"
+    },
+    {
+      "productCode": "PROD-0006",
+      "name": "Ibuprofen",
+      "quantity": 90,
+      "price": 10000,
+      "description": "Giảm đau và chống viêm.",
+      "importDate": "2024-10-06",
+      "categoryId": "1",
+      "id": "6"
+    },
+    {
+      "productCode": "PROD-0007",
+      "name": "Ciprofloxacin",
+      "quantity": 50,
+      "price": 25000,
+      "description": "Kháng sinh chống nhiễm trùng đường tiết niệu.",
+      "importDate": "2024-10-07",
+      "categoryId": "2",
+      "id": "7"
+    },
+    {
+      "productCode": "PROD-0008",
+      "name": "Vitamin D3",
+      "quantity": 200,
+      "price": 6000,
+      "description": "Hỗ trợ sức khỏe xương khớp.",
+      "importDate": "2024-10-08",
+      "categoryId": "3",
+      "id": "8"
+    },
+    {
+      "productCode": "PROD-0009",
+      "name": "Dextromethorphan",
+      "quantity": 60,
+      "price": 15000,
+      "description": "Giảm ho, an toàn cho trẻ em.",
+      "importDate": "2024-10-09",
+      "categoryId": "4",
+      "id": "9"
+    },
+    {
+      "productCode": "PROD-0010",
+      "name": "Cetirizine",
+      "quantity": 130,
+      "price": 8000,
+      "description": "Thuốc dị ứng, giảm triệu chứng dị ứng.",
+      "importDate": "2024-10-10",
+      "categoryId": "5",
+      "id": "10"
+    },
+    {
+      "productCode": "PROD-1111",
+      "name": "Nước muối sinh lý",
+      "quantity": "100",
+      "price": "100000",
+      "description": "Vệ sinh mũi trong một số trường hợp bị cảm cúm thông thường hay sốt siêu vi.",
+      "importDate": "2024-11-05",
+      "categoryId": "2",
+      "id": "634b"
+    }
+  ]
+}
